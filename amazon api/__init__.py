@@ -1,2 +1,0 @@
-from amazonApi import requester
-
