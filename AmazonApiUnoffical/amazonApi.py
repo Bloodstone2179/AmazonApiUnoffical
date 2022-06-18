@@ -1,6 +1,6 @@
 import requests
 def requester(str):
-    url = "azapi.cloudns.ph/api/" + str
+    url = "	qmazonapi.cloudns.ph/api/" + str
     page = requests.get(url=url)
     jsonPage = page.json()
 
